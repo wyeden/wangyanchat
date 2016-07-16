@@ -1,0 +1,18 @@
+{
+  "name": "wangyanchat",
+  "description": "'聊天室'",
+  "main": "index.js",
+  "authors": [
+    "wyeden <369059378@qq.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
